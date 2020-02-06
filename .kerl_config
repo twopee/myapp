@@ -1,0 +1,2 @@
+
+ --enable-darwin-64bit --with-ssl=/usr/local/opt/openssl
